@@ -14,3 +14,11 @@
 > *编译*
 >
 > go build -ldflags "-w -s" ./
+
+> *参数*
+>
+> 正常执行
+> eeecdn.exe -f url.txt
+>
+> 不输出c段和保存的运营商
+> eeecdn.exe -f url.txt -c 阿里云,腾讯云
