@@ -29,3 +29,5 @@ eeecdn.exe -f url.txt
 eeecdn.exe -f url.txt -c 阿里云,腾讯云
 ```
 
+![qrcode_for_gh_20cf09f0438b_258](https://github.com/user-attachments/assets/211978c1-9f0c-4b25-b7f5-3ba557fc7654)
+
